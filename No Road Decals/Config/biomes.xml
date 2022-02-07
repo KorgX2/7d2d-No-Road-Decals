@@ -1,0 +1,54 @@
+<KorgX3>
+
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='0']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='1']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='2']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='3']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='4']/@prob">0</set>	
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='5']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='6']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='7']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='8']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='9']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='10']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='11']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='12']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='13']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='14']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='City Asphalt']/decal[@texture='15']/@prob">0</set>
+	
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='0']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='1']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='2']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='3']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='4']/@prob">0</set>	
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='5']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='6']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='7']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='8']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='9']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='10']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='11']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='12']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='13']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='14']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Country Road Asphalt']/decal[@texture='15']/@prob">0</set>
+
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='0']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='1']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='2']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='3']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='4']/@prob">0</set>	
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='5']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='6']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='7']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='8']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='9']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='10']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='11']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='12']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='13']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='14']/@prob">0</set>
+	<set xpath="/worldgeneration/pois/poi[@name='Road Gravel']/decal[@texture='15']/@prob">0</set>
+
+</KorgX3>

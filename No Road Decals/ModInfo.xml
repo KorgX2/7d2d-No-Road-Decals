@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="No Road Decals" />
+        <Description value="No more road decals requires new worldgen." />
+        <Author value="KorgX3" />
+        <Version value="A20" />
+    </ModInfo>
+</xml>
